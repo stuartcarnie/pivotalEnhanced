@@ -5,3 +5,21 @@ This simple Safari extension adds replaces Pivotal Tracker's basic markdown of `
 the very excellent [Showdown](http://attacklab.net/showdown/) Javascript library.
 
 Install and reload your pivotaltracker page for markdown goodness.
+
+How to use markdown
+-------------------
+
+Pivotal: Enhanced markdown support is _opt-in_.  To enable markdown for a particular element, add `:MD` 
+as the last piece of text in your description or comment.
+
+		This is a test
+		
+			* A list
+			* More items
+		
+		:MD
+		
+
+
+
+
