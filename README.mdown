@@ -1,0 +1,7 @@
+Pivotal: Enhanced
+=================
+
+This simple Safari extension adds replaces Pivotal Tracker's basic markdown of `*bold*` and `_italic_` with 
+the very excellent [Showdown](http://attacklab.net/showdown/) Javascript library.
+
+Install and reload your pivotaltracker page for markdown goodness.
