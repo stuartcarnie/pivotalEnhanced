@@ -1,13 +1,13 @@
 Pivotal: Enhanced
 =================
 
-This simple Safari extension adds replaces Pivotal Tracker's basic markdown of `*bold*` and `_italic_` with 
-the very excellent [Showdown](http://attacklab.net/showdown/) Javascript library.
+This simple Safari extension provides an opt-in mechanism to add markdown support to [Pivotal Tracker](http://pivotaltracker.com).
+This is enabled by the excellent [Showdown](http://attacklab.net/showdown/) Javascript library.
 
 Install and reload your pivotaltracker page for markdown goodness.
 
-How to use markdown
--------------------
+How to use Pivotal: Enhanced
+----------------------------
 
 Pivotal: Enhanced markdown support is _opt-in_.  To enable markdown for a particular element, add `:MD` 
 as the last piece of text in your description or comment.
